@@ -30,4 +30,7 @@ fun main(){
         print("$i ")
     }
     println()
+
+    val emptyArray = emptyArray<Int>()
+    ///example usage -> used to return an empty array inside a method
 }
