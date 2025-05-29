@@ -24,7 +24,7 @@ fun main(){
     val g = a.toFloat().div(b)
     //can be written as like so-> a / b
     //.toDouble() or .toFloat() -> to get decimal results
-    //.toDouble() or .toFloat() -> follows after dividend or divisor
+    //.toDouble() or .toFloat() -> follows after dividend
     println("The division with double is $f")
     println("The division with float is $g")
 
